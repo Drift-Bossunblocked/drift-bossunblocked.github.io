@@ -44,7 +44,7 @@ jQuery(document).ready(function () {
                 <p></p>
 
                 <div class="d-flex justify-content-center mt-3">
-                <a href="/${item.slug}.html" class="btn btn-primary">Play</a>
+                <a href="go/${item.slug}.html" class="btn btn-primary">Play</a>
                 </div>
             </div>
             </div>
